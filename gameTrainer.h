@@ -1,10 +1,9 @@
-namespace trainer
+class GameTrainer
 {
-	class GameTrainer
-	{
-	private:
-		;
-	public:
-		init();
-	};
-}
+private:
+	;
+public:
+	void init();
+	void train();
+	void getData();
+};
