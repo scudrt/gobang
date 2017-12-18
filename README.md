@@ -19,6 +19,12 @@ completed the basic part of game, it can be played by human now.
 
 完成了五子棋的基本功能，可以玩家对战了
 
+12.18.2017
+
+fixed some little problems
+
+修复了一点无关紧要的玩意
+
 To be continued.
 
 未完待续
