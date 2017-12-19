@@ -97,9 +97,9 @@ GameDirector::~GameDirector()
 void GameDirector::_makeMap()
 {
 	//background color
-	setbkcolor(EGERGB(170,140,0)); //brown
+	setbkcolor(EGERGB(120,120,120)); //grey
 	//draw the lines
-	setcolor(EGERGB(190,190,190));
+	setcolor(EGERGB(180,180,180));
 	for (int i=1;i<=mapX+1;++i)
 	{
 		//row
