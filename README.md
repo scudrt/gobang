@@ -25,6 +25,12 @@ fixed some little problems
 
 修复了一点无关紧要的玩意
 
+12.19.2017
+
+change the color of game
+
+改了一下棋盘配色
+
 To be continued.
 
 未完待续
